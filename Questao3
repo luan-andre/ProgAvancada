@@ -1,0 +1,3 @@
+Sendo iej variáveis ​​inteiras epeq ponteiros para int, as seguintes expressões são ilegais:
+
+p = i; i = (*&)j; q = *p;
